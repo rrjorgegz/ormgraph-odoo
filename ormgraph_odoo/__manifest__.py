@@ -1,6 +1,6 @@
 {
     "name": "ORMGraph — ERD Studio, Database Diagram & Architecture Visualizer",
-    "version": "19.0.1.0.0",
+    "version": "18.0.1.0.0",
     "category": "Developer Tools",
     "summary": "Interactive ERD diagram generator, database schema explorer, model relationship graph & BFS dependency pathfinder for Odoo developers.",
     "description": """
