@@ -74,7 +74,7 @@ class ORMGraphController(http.Controller):
 
     @http.route(
         ["/api/graph/json", "/ormgraph/api/graph/json"],
-        type="jsonrpc",
+        type="json",
         auth="user",
         methods=["POST"],
     )
